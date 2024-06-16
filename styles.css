@@ -1,0 +1,58 @@
+body {
+    font-family: 'Comic Sans MS', sans-serif;
+    background-color: #ffeb3b;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header {
+    background-color: #e91e63;
+    color: #fff;
+    padding: 2rem 0;
+}
+
+h1 {
+    font-size: 3rem;
+    margin: 0;
+}
+
+p {
+    font-size: 1.2rem;
+}
+
+main {
+    padding: 2rem;
+}
+
+section {
+    margin: 2rem 0;
+}
+
+.features ul, .roadmap ul {
+    list-style: none;
+    padding: 0;
+}
+
+.features li, .roadmap li {
+    font-size: 1.5rem;
+    margin: 1rem 0;
+}
+
+.team-member {
+    display: inline-block;
+    margin: 1rem;
+}
+
+.team-member img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+
+footer {
+    background-color: #e91e63;
+    color: #fff;
+    padding: 1rem 0;
+}
